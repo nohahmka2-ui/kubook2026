@@ -1,0 +1,8 @@
+streamlit
+easyocr
+pdf2image
+numpy
+fpdf2
+arabic-reshaper
+python-bidi
+opencv-python-headless
